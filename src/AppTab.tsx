@@ -58,7 +58,7 @@ const AppTab: React.FC = () => {
 			<IonTabBar slot="bottom">
 				<IonTabButton tab="home" href="/my/entries">
 					<IonIcon icon={homeIcon} />
-					<IonLabel>Home</IonLabel>
+					<IonLabel>Dashboard</IonLabel>
 				</IonTabButton>
 				<IonTabButton tab="call" href="/my/createconf">
 					<IonIcon icon={callIcon} />

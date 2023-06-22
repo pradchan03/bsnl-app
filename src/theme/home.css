@@ -1,0 +1,13 @@
+.start-conf-btn-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 65px; /* Adjust the desired height */
+}
+
+.calendar-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 200px; /* Adjust the desired height */
+}
