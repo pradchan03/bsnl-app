@@ -9,5 +9,11 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 200px; /* Adjust the desired height */
+	height: 350px; /* Adjust the desired height */
+}
+ongo-upcom-meets-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 350px;
 }
